@@ -417,8 +417,8 @@
   }
   #play-overlay{
     position: fixed;
-    left: 12px;
-    bottom: 12px;
+    right: 14px;
+    bottom: 14px;
     z-index: 9999;
     display: none;
   }
